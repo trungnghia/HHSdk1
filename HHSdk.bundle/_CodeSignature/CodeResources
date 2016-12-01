@@ -4,9 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Info.plist</key>
+		<data>
+		XYDUCrTL3zSkMBGhN9EobQ7QbMQ=
+		</data>
 		<key>LoginViewController.nib</key>
 		<data>
-		/tUSDUPJS06e7W+f52I7ZE4/kUA=
+		t99aC4Deo6CLL4RBEdDrjVzJiJE=
 		</data>
 		<key>btnBackLogin.png</key>
 		<data>
@@ -59,11 +63,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/tUSDUPJS06e7W+f52I7ZE4/kUA=
+			t99aC4Deo6CLL4RBEdDrjVzJiJE=
 			</data>
 			<key>hash2</key>
 			<data>
-			BFTngcQSFspjaziy1S1TXQ6g7U/tLqtDZS73rcrZ//A=
+			d32+DCkXrA3/8WXS0c49mdpP1Gb7kqWg52xjOo8espA=
 			</data>
 		</dict>
 		<key>btnBackLogin.png</key>
